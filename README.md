@@ -1,1 +1,6 @@
 # Expectation-in-SIA
+The System Integration and Architecture (SIA) involve the assembly of different components into efficient systems. My ambition in this area is to develop systems operationally efficient and freely integrated; almost like building with software, databases, and cloud services if you will. Therefore, my endeavor will be to streamline integration, thus yielding flexible, stable, and maintainable systems.
+
+I like technology or feel it is interesting when technology contributes to the advancement of organization efficiency like a good technology researcher who sees corporate needs and builds systems around that need. At decision making, there lies a proverbial balancing act between the traditional tightly knit systems and a composition of manageable components, factoring in security issues. I am ready to take up the challenge a few choices will be made in favor of organizational growth and competitive advantage.
+
+At the end of the day, I want to take charge of large technology projects and unite the teams while monitoring progress and resolving issues effectively. This combines the solving of problems and leadership with knowledge of systems integration and architectural concepts.
